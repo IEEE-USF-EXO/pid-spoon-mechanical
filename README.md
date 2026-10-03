@@ -44,7 +44,7 @@ The folder map is provisional. It follows the structure used by the matching EXO
 
 ## Drive folder
 
-[CAD](https://drive.google.com/drive/folders/1YMkOgCQYvIX7hc_3DGHrTM1Ga8TO6J5r)
+[CAD](https://drive.google.com/drive/folders/1a1LPEQUeCjfbkV6nDJag9Hsq55-Go0J8)
 
 Raw files stay in Drive. A short summary goes in `docs/` and names the Drive file and the date. If the link says you need access, use Request access or ask a Project Lead.
 

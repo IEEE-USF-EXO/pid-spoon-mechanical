@@ -1,0 +1,7 @@
+# Native CAD stays in Drive
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+~$*
+.env
+data/raw/

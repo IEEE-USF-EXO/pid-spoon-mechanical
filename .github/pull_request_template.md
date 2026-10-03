@@ -8,4 +8,4 @@ Link the raw evidence file in Drive if there is one.
 
 ## Interfaces affected
 
-Name the interface IDs from pid-spoon-hub/docs/INTERFACES.md, or write None.
+Name the interface IDs from pid-spoon-interfaces, or write None.
